@@ -1,1 +1,39 @@
-[]
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Buy groceries",
+      "completed": false
+    },
+    {
+      "id": "2",
+      "title": "Clean the house",
+      "completed": true
+    },
+    {
+      "id": "3",
+      "title": "Finish project report",
+      "completed": false
+    },
+    {
+      "id": "4",
+      "title": "Call the electrician",
+      "completed": true
+    },
+    {
+      "id": "5",
+      "title": "Prepare for the meeting",
+      "completed": false
+    },
+    {
+      "id": 1729450199390,
+      "text": "buy a watch",
+      "completed": false
+    },
+    {
+      "id": 1729450302909,
+      "text": "maslah",
+      "completed": false
+    }
+  ]
+}
